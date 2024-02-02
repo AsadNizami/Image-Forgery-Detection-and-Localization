@@ -1,1 +1,1 @@
-"# Image-Forgery-Detection-and-Localization" 
+# Image-Forgery-Detection-and-Localization
